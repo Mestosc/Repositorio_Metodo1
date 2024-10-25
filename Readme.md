@@ -6,6 +6,11 @@ El otro seria clonar un repositorio para posteriormente añadirle otro repositor
 ## Primer metodo
 Este metodo consiste en pocas palabras en clonar el repositorio y añadir un remoto nuevo que corresponda a un repositorio creado por ti.
 
+> [!IMPORTANT]
+> Esa es la URL para acceder al repositorio desde el navegador para clonarlo se necesita la URL que acaba en `.git`
+> Esa url puede ser obtenida tocando en github el boton **Code** que hara que se despliegue la siguiente ventana
+> ![img.png](img.png)
+
 Estos son los pasos a seguir:
 
 1. Clonamos el repositorio que en este caso es `https://github.com/danielcastelao/pruebasReadme`
@@ -22,15 +27,5 @@ flowchart TD;
     Creamos_remoto-->Cambios;
     Cambios-->Subir_remoto_creado;
 ```
-Yo lo hice en ese orden y asi ha sido estructurado en el diagrama pero podrias crear el remoto antes y demás
-## Segundo metodo
-
-Este metodo consiste en crear un fork del repositorio y luego clonarlo desde ahi y consistiria en los siguientes pasos
-
-1. Hacemos un **fork** del repsotirio usando el boton fork que aparece en github  
-
-   ![Imagen boton fork](img.png)
-
-
-2. Luego clonamos ese repositorio   
+Yo lo hice en ese ordenás más o menos y asi ha sido estructurado en el diagrama pero podrias crear el remoto antes y demás
 
