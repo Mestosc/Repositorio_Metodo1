@@ -9,6 +9,7 @@ Este metodo consiste en pocas palabras en clonar el repositorio y añadir un rem
 > [!IMPORTANT]
 > Esa es la URL para acceder al repositorio desde el navegador para clonarlo se necesita la URL que acaba en `.git`
 > Esa url puede ser obtenida tocando en github el boton **Code** que hara que se despliegue la siguiente ventana
+> 
 > ![img.png](img.png)
 
 Estos son los pasos a seguir:
